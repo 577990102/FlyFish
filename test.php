@@ -17,3 +17,17 @@ function   demo(){
 
 demo();
 
+
+/*
+ * 这是在tmp分支写的代码
+ * 目前在tmp分支上，我要切到master分支了  你注意看下   test这个方法在master 有没有  *****
+ *  现在你的代码
+ *
+ */
+
+function   test(){
+    echo   "This   is   tmp  branch ";
+}
+
+
+test();
